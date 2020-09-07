@@ -360,7 +360,7 @@ section .btn1{
 	color: #FFF;
 	background-color:rgba(45, 201, 151, .8);
 	line-height: 183px;
-	opacity: 1;
+	opacity: 0;
 	font-size: 30px;
 	transition: 1s;
 }

@@ -360,12 +360,12 @@ section .btn1{
 	color: #FFF;
 	background-color:rgba(45, 201, 151, .8);
 	line-height: 183px;
-	display: none;
+	opacity: 0;
 	font-size: 30px;
 	transition: 1s;
 }
 .portfolio .fut:hover .overlay{
-   display: block;
+  opacity: 1;
 }
 
 .mix{
